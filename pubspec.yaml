@@ -1,6 +1,6 @@
 name: pretty_log
-description: A sample command-line application.
-version: 0.0.1
+description: dart log with color.
+version: 0.0.2
 homepage: https://www.github.com/FakenKoala/pretty_log
 
 environment:
@@ -13,3 +13,6 @@ environment:
 dev_dependencies:
   lints: ^1.0.0
   test: ^1.16.0
+
+executables:
+  pretty_log: pretty_log
